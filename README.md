@@ -1,8 +1,16 @@
 # WeatherGPT - Precision AgriTech Weather & Agronomy Platform 🌾🚜
 
+[![Live Demo](https://img.shields.io/badge/Live%20Prototype-Open%20WeatherGPT-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-4igp4kt5ixygqjvctksj47-608257159943.asia-east1.run.app)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+> 🚀 **Live Prototype Demo:** [https://ais-pre-4igp4kt5ixygqjvctksj47-608257159943.asia-east1.run.app](https://ais-pre-4igp4kt5ixygqjvctksj47-608257159943.asia-east1.run.app)
+
 **WeatherGPT** is a production-ready, hyper-local precision agricultural weather intelligence and AI agronomy advisory platform built for Indian farmers and agricultural practitioners. Powered by modern meteorology APIs (Open-Meteo, IMD standards) and Gemini AI models via Google Gen AI SDK.
 
 ---
+
 
 ## 🌟 Key Features
 
